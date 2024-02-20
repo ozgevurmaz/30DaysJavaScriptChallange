@@ -1,7 +1,12 @@
 # 30 Days JavaScript Challenge
 This challenge created by  [wesbos](https://github.com/wesbos)
+
 ## Day 1: DrumKit
-![image](https://github.com/ozgevurmaz/30DaysJavaScriptChallange/assets/49415731/57e790d6-1208-4c06-b441-1470f4e4a6d7)
+https://github.com/ozgevurmaz/30DaysJavaScriptChallange/assets/49415731/70fa2c39-8492-46df-8b4b-cfb8e50ae712
 
 ## Day 2: Clock
-![image](https://github.com/ozgevurmaz/30DaysJavaScriptChallange/assets/49415731/73e5b249-e38d-4458-8d59-d8304c845c61)
+https://github.com/ozgevurmaz/30DaysJavaScriptChallange/assets/49415731/53a1a477-19a8-4ebe-909e-15ce67ec4a12
+
+## Day 2: CSS Variables
+https://github.com/ozgevurmaz/30DaysJavaScriptChallange/assets/49415731/a30f109e-c146-49e1-ac85-3509e43a921e
+
